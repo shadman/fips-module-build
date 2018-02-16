@@ -2,6 +2,7 @@ Fips Build For OpenSSL
 
 ## Step 0: Prerequisites
 
+0. Windows 7 Recommended with 32 Bit
 1. Programming languages\Visual C++\Common Tools for Visual C++ 2015; You may download Visual C++ 2015/2017 Build Tools from here http://landinghub.visualstudio.com/visual-cpp-build-tools
 2. Open Visual C++ Build Tools
 3. Perl should be installed and location shoule be added in PATH system variable like: 'C:\Perl32\bin'. Also you may download pearl from here https://www.activestate.com/activeperl/downloads (if needed)
